@@ -69,3 +69,4 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 - Para que no se dispare el push
+- Para pull request
